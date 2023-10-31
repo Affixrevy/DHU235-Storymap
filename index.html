@@ -1,0 +1,71 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+
+  <!-- Add your site or application content here -->
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- The StoryMap container can go anywhere on the page. Be sure to
+    specify a width and height.  The width can be absolute (in pixels) or
+    relative (in percentage), but the height must be an absolute value.
+    Of course, you can specify width and height with CSS instead -->
+<div id="storymap-embed" style="width: 100%; height: 600px;"></div>
+
+  <!-- Your script tags should be placed before the closing body tag. -->
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+  <script type="text/javascript" src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+
+  <script>
+  var storymap;
+
+	function onStoryMapTitle(e) {
+			document.title = "StoryMapJS: " + e.title;
+	};
+
+    function buildStoryMap(data) {
+        console.log('building storymap');
+        console.log(data);
+        let options = {};
+        let storymapTitle = 'My StoryMap';
+	    storymap = new KLStoryMap.StoryMap('storymap-embed', data, options, {title: onStoryMapTitle});
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        console.log("Initializing storymap")
+        var data = {};
+        var options = {};
+        var storymapTitle = 'Test';
+        let url = './static/storymap.json';
+        fetch(url)
+            .then(response => response.json())
+            .then(data => buildStoryMap(data));
+    })
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,308 @@
+[
+    {
+        "type": "overview",
+        "location": {
+            "lat": 43.65281183,
+            "lon": -79.38391475
+        },
+        "text": {
+            "headline": "Toronto Sign",
+            "text": "Welcome to the walking tour of Toronto ! Today you will get a glimpse into some of Toronto's landmarks as well as find out your future go-to food and entertainment spots that will be your lifesavers during the school year. Currently, we are at Nathan Phillip's Square -- the heart of city life and venue for various events you have yet to experience. But for now, let's turn left on Queen Street to explore the biggest shopping centre of downtown Toronto -- Eaton Centre."
+        },
+        "media": {
+            "url": "TorontoSign.jpg",
+            "caption": "Toronto Sign in Nathan Phillips Square",
+            "credit": "Creative Commons"
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65442052,
+            "lon": -79.38071544
+        },
+        "text": {
+            "headline": "Eaton Centre",
+            "text": "Right before the Queen Street-Yonge intersection, you can see an entrance to Eaton Centre to your left. This door will reveal an arcade of multi-story shops that can satisfy any need you migh have. At Eaton, you can buy books in Indigo, get coffee and food in the downstairs food hall, buy cosmetics and trinkets in Asian-themed stores and even get a mobile plan in the middle of the concourse. To stop you from the impulsive shopping, let's just walk through the first floor and exit Eaton Centre to explore our next location -- Yonge-Dundas Square."
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65610183,
+            "lon": -79.38034742
+        },
+        "text": {
+            "headline": "Yonge and Dundas Square",
+            "text": "Having exited the revolving doors at the northmost point of Eaton Centre, you enter Yonge-Dundas Square. With skyscrapers playing video advertisements all day long, this might be the perfect spot for the \"New York-like\" photos. Having said that, Dundas Square encapculates the worst and the best of downtown Toronto: at any time of the day you see homeless people, buskers and street preachers there. This place becomes the heart of Toronto life during celebrations and political protests, so if any of this is of interest to you, you might become a frequent visitor to Dundas Square. But for now, let's explore the public transit of downtown Toronto -- the TTC."
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65625246,
+            "lon": -79.38045439
+        },
+        "text": {
+            "headline": "Dundas to St Patrick TTC",
+            "text": "A flight of stairs will take you underground to Toronto's Subway -- TTC. Today, you will experience the idiosyncracy of Line 1, which makes a small u-shape through the downtown core. The subway goes quite slow so you do not have to shout to be heard by your friend. We will take a southbound train to St Patrick station where we will explore our last but not least location of the first part of the tour -- the food hall Village by the Grange."
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65483699,
+            "lon": -79.38835151
+        },
+        "text": {
+            "headline": "Dundas to St Patrick TTC",
+            "text": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65437969,
+            "lon": -79.39048071
+        },
+        "text": {
+            "headline": "Village by The Grange",
+            "text": "A vibrant collection of small eateries awaits you in this maze like food court. Every corner you turns seems to expose a new option for something to eat! Great for a quick bite while expolring the city. Located next to the Art Gallery of Ontario and the Ontario College of Art and Design, the food court is a hidden gem for students on a budget. Here, you can get delectable udon for less than $10 or a daily special bubble tea for up to $5. The food options do not end there -- the Grange also offers Middle Eastern cuisine, as well as European breakfasts and some renowned fast food options such as McDonald's or Popeyes. Either way, please take a bite of something before we continue our tour to another Toronto's neighbourhood -- Kensington market."
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65337761,
+            "lon": -79.40022919
+        },
+        "text": {
+            "headline": "Kensington Market Neighbourhood",
+            "text": "Even though there isn't a specifc cutoff from Kensington market to the rest of downtown Toronto, you will know that you have arrived in the Kensington neighbourhoood as soon as you see the colourful shop-fronts and vibrant murals. With over 240 unique and eclectic businesses, ranging all the way from fresh produce to vintage items, there is no shortage of things for you to see!"
+        },
+        "media": {
+            "url": "Kensington Avenue.jpg",
+            "caption": "Kensington Avenue",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65465451,
+            "lon": -79.40155125
+        },
+        "text": {
+            "headline": "Flamingo Vintage ",
+            "text": "Thrifting is inexpensive and vintage clothes are all the trend at the moment - another reason why Kensington is so perfect for students on a budget. There are countless of vintage stores for you to explore, carrying almost anything you are looking for with affordable prices. If used items are not to your liking, no worries! You can find plenty of stores which sells brand new items, just walk around to discover whatever your heart desires!"
+        },
+        "media": {
+            "url": "Flamingo Vintage.jpg",
+            "caption": "Flamingo Vintage clothing store",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.6544018,
+            "lon": -79.40232589
+        },
+        "text": {
+            "headline": "Pancho y Emiliano",
+            "text": ""
+        },
+        "media": {
+            "url": "Pancho y Emiliano.jpg",
+            "caption": "Pancho y Emiliano",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.65578836,
+            "lon": -79.40244092
+        },
+        "text": {
+            "headline": "Street markets",
+            "text": ""
+        },
+        "media": {
+            "url": "Street market.jpg",
+            "caption": "Street markets",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66154651,
+            "lon": -79.40908313
+        },
+        "text": {
+            "headline": "Bampot House",
+            "text": "To get a sense of Harbord Village, go to Bampot House -- a community-oriented anti-cafe that where you can cowork, play board games, get crafty, do art therapy, talk philosophy and sing karaoke. In Bampot, you pay hourly for using the space, which also gains you access to unlimited tea and coffee!"
+        },
+        "media": {
+            "url": "bampot house.mov",
+            "caption": "Bampot House",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66195998,
+            "lon": -79.40706628
+        },
+        "text": {
+            "headline": "Emmer",
+            "text": "If you decide to go to Emmer, be ready to spend some time in a line \u2013 this is how good their pastry is. The highlight of the place is the pistachio and passion fruit croissants, with the first one getting sold out in the first working hour of the bakery."
+        },
+        "media": {
+            "url": "emmer.mov",
+            "caption": "Emmer",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66218175,
+            "lon": -79.40622246
+        },
+        "text": {
+            "headline": "Major Treat Coffee and Emission Records Shop",
+            "text": "Having bought the pastry, treat yourself to a tea or a coffee at the Major Treat Coffee and Emissions records shop. This place sells coffee, cookies, niche records and a variety of books, both fiction and non-fiction -- a great place for window-shopping and music conversations with the employees."
+        },
+        "media": {
+            "url": "emissions record shop.mov",
+            "caption": "Emission Records and Major Treat",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66223,
+            "lon": -79.404227
+        },
+        "text": {
+            "headline": "Kosower Lane Mural and Mirror",
+            "text": "If you want to escape the hustle and bustle of Harbord Street, turn right to Major Street and then take the first turn left which will lead you in Kosower lane. Small and inconspicuous, Kosower lane can boast a fantastic mural and mirror art \u2014 a perfect spot for a selfie and contemplation."
+        },
+        "media": {
+            "url": "kosower lane mirror .mov",
+            "caption": "Kosower Lane Hidden Gem",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66297006,
+            "lon": -79.40335598
+        },
+        "text": {
+            "headline": "Caversham Bookstore",
+            "text": "The last stop in Harbord Village, a Caversham Bookstore is mental health specialized bookstore that offers I wide range of literature on various psychological, psychoanalytic and self-help topics. The selection of books at Caversham is pretty unique, and the staff can always recommend a read that should be most relevant to whatever you are going through right now."
+        },
+        "media": {
+            "url": "caversham bookstore.mov",
+            "caption": "Caversham Bookstore",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66634842,
+            "lon": -79.40613863
+        },
+        "text": {
+            "headline": "Famoso Italian Pizzeria",
+            "text": "You must be hungry after visiting the bookstore, dine in at the Famoso italian pizzeria where you can get a margheritta pizza for $12. They also have other foods options such as salads, pastas! Food allergies? they have gluten free and vegan options too!"
+        },
+        "media": {
+            "url": "Pizzeria.MOV",
+            "caption": "Famoso Neopolitan Pizzeria",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66674441,
+            "lon": -79.40569445
+        },
+        "text": {
+            "headline": "Fuwa Fuwa Dessert Cafe",
+            "text": "Dont forget about dessert! You have to try the pancakes at Fuwa Fuwa which is just a few shops down from Famoso. Their Tiramisu pancakes are a must try and you definitely have to add a hot drink on the side . They also have other desserts if you're not in the mood for pancakes such as cupcakes, cheesecakes, cookies and pudding. "
+        },
+        "media": {
+            "url": "Fuwa Fuwa.jpg",
+            "caption": "Fuwa Fuwa Japanese Pancakes",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66598341,
+            "lon": -79.40750968
+        },
+        "text": {
+            "headline": "Jux.ta.pose cards & gifts",
+            "text": "Walk a few stores down and head on over to the giftshop and treat yourself or someone you love to something cute! they have so many fun quirky and unqiue knick knacks like birthday cards, candles, soaps, pins, home goods, keychains and various stationary. "
+        },
+        "media": {
+            "url": "Gift shop.jpg",
+            "caption": "Jux.ta.pose cards & gifts",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66547349,
+            "lon": -79.40884596
+        },
+        "text": {
+            "headline": "PawPalsYoga",
+            "text": "Feeling stressed out from school or life? need some cuddles? Cross the street and visit PawPals! This is a cute activity you'd want to check out with a friend or alone. While relaxing your body through yogs you get a visit from some cute friendly faces that want all the hugs."
+        },
+        "media": {
+            "url": "PawPals.mp4",
+            "caption": "PawPalsYoga",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66546683,
+            "lon": -79.40885907
+        },
+        "text": {
+            "headline": "Lee's Palace Live Music Venue",
+            "text": "Right up Bloor St. West and Albany is Lee's Palace! It's a classic and has been around since 1985. You should treat yourself to some live music at this rock concert hall. The ticket varies based on the specific event from anywhere between $15 to $40."
+        },
+        "media": {
+            "url": "Lee's Palace.jpg",
+            "caption": "Lee's Palace",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66907822,
+            "lon": -79.40939177
+        },
+        "text": {
+            "headline": "Cathedral of St.Alban-the-Martyr heritage building",
+            "text": "The Cathedral of St.Alban-the-Martyr"
+        },
+        "media": {
+            "url": "Cathedral2.jpg",
+            "caption": "Cathedral of St.Alban-the-Martyr",
+            "credit": ""
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66782608,
+            "lon": -79.39374714
+        },
+        "text": {
+            "headline": "Royal Ontario Museum",
+            "text": ""
+        },
+        "media": {
+            "url": "the ROM on film ver 1.jpg",
+            "caption": "Royal Ontario Museum",
+            "credit": ""
+        }
+    }
+]
