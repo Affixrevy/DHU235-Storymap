@@ -28,7 +28,7 @@ def csv_to_json(csv_file_path, json_file_path):
     if row['Slide Title'] or row['Text. Note: You CAN use HTML tags here (50-60 words)']:
       slide["text"] = {
         "headline": row['Slide Title'],
-        "text": row['Text. Note: You CAN use HTML tags here (50-60 words)']
+        "text": f"<span style=\"color: #2c2c2c; text-shadow: none;\">{row['Text. Note: You CAN use HTML tags here (50-60 words)']}"
       }
 
     if row['Media: URL']:
@@ -38,12 +38,32 @@ def csv_to_json(csv_file_path, json_file_path):
         "credit": row['Media: Credit']
       }
 
+    if row['Colour']:
+      slide["background"] = {
+        "color": row['Colour'],
+        "opacity": int(row['Transparency'])
+      }
+
     json_data.append(slide)
+
+  storymap = {
+    "width": 500,
+    "height": 1800,
+    "calculate_zoom": True,
+    "storymap": {
+      "language": "en",
+      "map_type": "osm:standard",
+      "map_as_image": False,
+      "slides": json_data
+    }
+  }
+
+
 
   # Write to JSON file
   with open(json_file_path, 'w') as json_file:
-    json.dump(json_data, json_file, indent=4)
+    json.dump(storymap, json_file, indent=4)
 
 
 # Call the function
-csv_to_json("Story Map Slides - Slides-5.csv", "output.json")
+csv_to_json("Story Map Slides - Slides-5.csv", "storymap.json")

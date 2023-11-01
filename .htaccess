@@ -50,6 +50,8 @@
     </IfModule>
 </IfModule>
 
+Header set Content-Security-Policy "frame-ancestors 'self' https://rom.on.ca;"
+
 # ----------------------------------------------------------------------
 # | Cross-origin web fonts                                             |
 # ----------------------------------------------------------------------
