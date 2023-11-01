@@ -52,7 +52,7 @@
         },
         "text": {
             "headline": "Dundas to St Patrick TTC",
-            "text": "A flight of stairs will take you underground to Toronto's Subway -- TTC. Today, you will experience the idiosyncracy of Line 1, which makes a small u-shape through the downtown core. The subway goes quite slow so you do not have to shout to be heard by your friend. We will take a southbound train to St Patrick station where we will explore our last but not least location of the first part of the tour -- the food hall Village by the Grange."
+            "text": "A flight of stairs will take you underground to Toronto's Subway -- TTC. Today, you will experience the idiosyncracy of Line 1, which makes a small u-shape through the downtown core. The subway goes quite slow so you do not have to shout to be heard by your friend. Let's take a southbound train to St Patrick station."
         },
         "media": {
             "url": "img/subway.jpg",
@@ -67,7 +67,12 @@
         },
         "text": {
             "headline": "Dundas to St Patrick TTC",
-            "text": ""
+            "text": "Having arrived at St Patricks, we are a minute-walk away from our last but not least location of the first part of the tour -- the food hall Village by the Grange."
+        },
+        "media": {
+            "url": "img/subway.jpg",
+            "caption": "TTC",
+            "credit": "Arthur Gao"
         }
     },
     {
@@ -155,7 +160,7 @@
             "text": "Harbord Village starts at the intersection of Harbord and Bathurst Streets, where Bampot House is located. Bampot House is a community-oriented anti-cafe that where you can cowork, play board games, get crafty, do art therapy, talk philosophy and sing karaoke. In Bampot, you pay hourly for using the space, which also gains you access to unlimited tea and coffee!"
         },
         "media": {
-            "url": "https://youtube.com/shorts/ZPbp4O8ffHg?feature=share",
+            "url": "https://youtu.be/ZPbp4O8ffHg?si=rcSl2EO2-4J1wZZE",
             "caption": "Bampot House",
             "credit": "Polina Gorn"
         }
@@ -170,7 +175,7 @@
             "text": "If you decide to go to Emmer, be ready to spend some time in a line \u2013 this is how good their pastry is. The highlight of the place is the pistachio and passion fruit croissants, with the first one getting sold out in the first working hour of the bakery."
         },
         "media": {
-            "url": "https://youtube.com/shorts/p8ppr_WZM1E?feature=share",
+            "url": "https://youtu.be/p8ppr_WZM1E?si=jI_VOic758ZWRDtq",
             "caption": "Emmer",
             "credit": "Polina Gorn"
         }
@@ -185,7 +190,7 @@
             "text": "Having bought the pastry, treat yourself to a tea or a coffee at the Major Treat Coffee and Emissions records shop. This place sells coffee, cookies, niche records and a variety of books, both fiction and non-fiction -- a great place for window-shopping and music conversations with the employees."
         },
         "media": {
-            "url": "https://youtube.com/shorts/-all73RzNyU?feature=share",
+            "url": "https://youtu.be/-all73RzNyU?si=neh__v_wLvWkTsaH",
             "caption": "Emission Records and Major Treat",
             "credit": "Polina Gorn"
         }
@@ -200,7 +205,7 @@
             "text": "If you want to escape the hustle and bustle of Harbord Street, turn right to Major Street and then take the first turn left which will lead you in Kosower lane. Small and inconspicuous, Kosower lane can boast a fantastic mural and mirror art \u2014 a perfect spot for a selfie and contemplation."
         },
         "media": {
-            "url": "https://youtube.com/shorts/SwFrdbXJ3Jo?feature=share",
+            "url": "https://youtu.be/SwFrdbXJ3Jo?si=0sKei_cisiwX8Wwy",
             "caption": "Kosower Lane Hidden Gem",
             "credit": "Polina Gorn"
         }
@@ -215,79 +220,34 @@
             "text": "The last stop in Harbord Village, a Caversham Bookstore is mental health specialized bookstore that offers I wide range of literature on various psychological, psychoanalytic and self-help topics. The selection of books at Caversham is pretty unique, and the staff can always recommend a read that should be most relevant to whatever you are going through right now."
         },
         "media": {
-            "url": "https://youtube.com/shorts/xRnf8REYny4?feature=share",
+            "url": "https://youtu.be/xRnf8REYny4?si=QWgK3FzHcNqaeb7r",
             "caption": "Caversham Bookstore",
             "credit": "Polina Gorn"
         }
     },
     {
         "location": {
-            "lat": 43.66634842,
-            "lon": -79.40613863
+            "lat": 43.66951046,
+            "lon": -79.40859572
         },
         "text": {
-            "headline": "Famoso Italian Pizzeria",
-            "text": "Exiting the Caversham bookstore turn right and take another right onto Roberts street and then take a left on Bloor St W and another right on Dalton Rd., where you enter one Toronto\u2019s oldest neighbourhoods; The Annex. Close to the University Toronto, this area appeals to students with the various shops, cafes, eateries, entertainment and architecture. Start off by dining in at the Famoso Italian pizzeria. This southern Italian restaurant offers  margherita pizza\u2019s for $12, sandwiches, salads, pastas, beer and cocktails! They're menu is also very inclusive to those with gluten allergies and those that are vegetarian or vegan."
+            "headline": "Cathedral of St.Alban-the-Martyr heritage building",
+            "text": "A 16-minute walk up north will lead you in one of the oldest neighbourhoods in Toronto - the Annex. In Howland Avenue, right beside the Royal St. George\u2019s College lies the Cathedral of St. Alban-the-Martyr. This Anglican church is used by the Royal St. George\u2019s College as a chapel. Founded in 1883 this gothic looking heritage building is still standing today. Now that you got to witness a little piece of Toronto\u2019s history, let's head on over to your next stop, Lee\u2019s Palace."
         },
         "media": {
-            "url": "https://youtube.com/shorts/5T6n4xtFX2s?feature=share",
-            "caption": "Famoso Neopolitan Pizzeria",
+            "url": "static/Photos/Cathedral2.jpg",
+            "caption": "Cathedral of St.Alban-the-Martyr",
             "credit": "Amrit Chahal"
         }
     },
     {
         "location": {
-            "lat": 43.66674441,
-            "lon": -79.40569445
-        },
-        "text": {
-            "headline": "Fuwa Fuwa Dessert Cafe",
-            "text": "Don\u2019t forget about dessert! Head south on Dalton Rd toward Bloor St W and cross the intersection of Bloor St W. and Brunswick. Just a few shops down you\u2019ll see a caf\u00e9 on your right called Fuwa Fuwa one of the many budget friendly dessert cafes in the Annex. They offer various desserts and pastries such as cupcakes, cheesecakes, cookies and pudding but their Japanese pancakes are a must try! you\u2019ll fall in love with the Their Tiramisu pancakes and don't forget to order a hot drink on the side. you're not in the mood for pancakes such as cupcakes, cheesecakes, cookies and pudding."
-        },
-        "media": {
-            "url": "static/Photos/Fuwa_Fuwa.jpg",
-            "caption": "Fuwa Fuwa Japanese Pancakes",
-            "credit": "Amrit Chahal"
-        }
-    },
-    {
-        "location": {
-            "lat": 43.66598341,
-            "lon": -79.40750968
-        },
-        "text": {
-            "headline": "Jux.ta.pose cards & gifts",
-            "text": "With your stomachs full fill your heart with some amazing gifts. Head towards Howland street and six shops down head on over to Juxtapose Cards and Gifts. This cute and quirky giftshop has something for everyone. Treat yourself or someone you love to something cute! They try to source a mixture of products helping out local makers along the way. They carry fun and unique Knick knacks like birthday cards, candles, soaps, pins, home goods, jewellery, keychains and all the stationary."
-        },
-        "media": {
-            "url": "static/Photos/Gift_shop.jpg",
-            "caption": "Jux.ta.pose cards & gifts",
-            "credit": "Amrit Chahal"
-        }
-    },
-    {
-        "location": {
-            "lat": 43.66547349,
-            "lon": -79.40884596
-        },
-        "text": {
-            "headline": "PawPalsYoga",
-            "text": "Do you need a break? Feeling stressed out from school or life? Need some cuddles? Head west on Bloor St W. Cross the street at the intersection towards Borden St. and visit PawPals! To get inside you have to enter \u2018dance annex\u2019 and head up to the second floor. For only $35 you get to stretch those tired muscles and cuddle with puppies! Who doesn't love a warm hug from an adorable furry friend. This is a cute activity you'd want to check out with some friends or even alone. While relaxing your body through yoga poses that are carried out by an instructor you get a visit from some cute friendly faces that want all the hugs."
-        },
-        "media": {
-            "url": "https://youtube.com/shorts/H0gJOAXLm4U?feature=share",
-            "caption": "PawPalsYoga",
-            "credit": "Amrit Chahal"
-        }
-    },
-    {
-        "location": {
-            "lat": 43.66546683,
-            "lon": -79.40885907
+            "lat": 43.66545907,
+            "lon": -79.40905219
         },
         "text": {
             "headline": "Lee's Palace Live Music Venue",
-            "text": "Right up Bloor St. West and Albany is Lee's Palace! It's a classic and has been around since 1985. Fun fact, This venue was actually a movie theatre in 1919 and a shoemaker shop before that. Let yourself be whisked away with the music scene at night through the colourful murals immersing yourself in the night scene. This rock concert hall depending on what you\u2019re into can be budget friendly ranging from $15-20 or a treat yourself kind of night with prices going up to $40. Since, this venue opens in the evening you can always save for later and invite some friends to have fun with!"
+            "text": "Walk down south on Howland Avenue till you reach the Bloor St West intersection. In front of you is Lee's Palace, a classic that\u2019s been around since 1985. Fun fact, this venue was actually a movie theatre in 1919 and a shoemaker shop before that. Let yourself be whisked away with the music scene at night through the colourful murals immersing yourself in the night scene. This rock concert hall depending on what you\u2019re into can be budget friendly ranging from $15-20 or a treat yourself kind of night with prices going up to $40. Since this venue opens in the evening, you should save this place for future nights out. But in the meantime, we will head on over to Pawpals! "
         },
         "media": {
             "url": "static/Photos/Lee_s_Palace.jpg",
@@ -297,16 +257,61 @@
     },
     {
         "location": {
-            "lat": 43.66907822,
-            "lon": -79.40939177
+            "lat": 43.66546573,
+            "lon": -79.40932876
         },
         "text": {
-            "headline": "Cathedral of St.Alban-the-Martyr heritage building",
-            "text": "The last stop of the Annex is the Cathedral of St. Alban-the-Martyr. Since you\u2019re in one of the oldest neighbourhoods in Toronto why not dive into some of the cool architecture and older homes. Walking from Bloor St W. Cross the street and head towards Albany Ave. towards Wells St. and then take a right onto Howland St. Yes, this is the long way around so you get to explore some of the neighborhood as well. Once you walk towards Howland Ave you\u2019ll pass by the Royal St. George\u2019s College and in front of you is the Cathedral of St. Alban-the-Martyr. This Anglican church is used by the Royal St. George\u2019s College as a chapel. Founded in 1883 this gothic looking heritage building is still standing today. Now that you got to witness a little piece of Toronto\u2019s history head on over to your next and final stop the ROM"
+            "headline": "PawPalsYoga",
+            "text": "Head east on Bloor St W, head on up to the second floor and visit PawPals! For only $35 you get to stretch those tired muscles and cuddle with puppies! Who doesn't love a warm hug from an adorable furry friend? This is a cute activity you'd want to check out with some friends or even alone. While relaxing your body through yoga poses that are carried out by an instructor you get a visit from some cute friendly faces that want all the hugs. Put this place on your post-exam list and don't forget to visit to give yourself a well-deserved break, from all the stressors in school and life."
         },
         "media": {
-            "url": "static/Photos/Cathedral2.jpg",
-            "caption": "Cathedral of St.Alban-the-Martyr",
+            "url": "https://youtu.be/H0gJOAXLm4U?si=HZ2NcaVBrG9XGMgD",
+            "caption": "PawPalsYoga",
+            "credit": "Amrit Chahal"
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66636395,
+            "lon": -79.40628883
+        },
+        "text": {
+            "headline": "Famoso Italian Pizzeria",
+            "text": "You must be getting hungry again from the Cathedral tour and the Yoga, so let's head on over to the Famoso Italian Pizzeria.  Walk east on Bloor St W. towards Croft St. and turn right on Dalton and dine in at the pizzeria. This southern Italian restaurant offers Margherita pizza\u2019s for $12, sandwiches, salads, pastas, beer and cocktails! Their menu is also very inclusive to those with gluten allergies and those that are vegetarian or vegan."
+        },
+        "media": {
+            "url": "https://youtu.be/5T6n4xtFX2s?si=EhQooCSZO5dqVzzI",
+            "caption": "Famoso Neopolitan Pizzeria",
+            "credit": "Amrit Chahal"
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66600669,
+            "lon": -79.40750968
+        },
+        "text": {
+            "headline": "Jux.ta.pose cards & gifts",
+            "text": "With your stomachs full, fill your heart with some amazing gifts. Head south on Dalton Rd. taking a right on Bloor St. W and crossing the intersection to get to Juxtapose Cards and Gifts. This cute and quirky giftshop has something for everyone. Treat yourself or someone you love to something cute! They try to source a mixture of products helping out local makers along the way. They carry fun and unique Knick knacks like birthday cards, candles, soaps, pins, home goods, jewellery, keychains and all the stationary."
+        },
+        "media": {
+            "url": "static/Photos/Gift_shop.jpg",
+            "caption": "Jux.ta.pose cards & gifts",
+            "credit": "Amrit Chahal"
+        }
+    },
+    {
+        "location": {
+            "lat": 43.66613275,
+            "lon": -79.40689574
+        },
+        "text": {
+            "headline": "Fuwa Fuwa Dessert Cafe",
+            "text": "Don\u2019t forget about dessert! Head East Bloor St W and a few shops down you\u2019ll see a caf\u00e9 on your right called Fuwa Fuwa one of the many budget friendly dessert cafes in the Annex. They offer various desserts and pastries such as cupcakes, cheesecakes, cookies and pudding but their Japanese pancakes are a must try! you\u2019ll fall in love with the Their Tiramisu pancakes and don't forget to order a hot drink on the side. If you're not in the mood for pancakes such as cupcakes, cheesecakes, cookies and pudding."
+        },
+        "media": {
+            "url": "static/Photos/Fuwa_Fuwa.jpg",
+            "caption": "Fuwa Fuwa Japanese Pancakes",
             "credit": "Amrit Chahal"
         }
     },
@@ -317,7 +322,7 @@
         },
         "text": {
             "headline": "Royal Ontario Museum",
-            "text": "Welcome to the Last and Final Stop the Royal Ontario Museum! Hope you have been enjoying your tour thus far. This is Canada\u2019s Largest Museum of Culture and Natural History. This museum was founded in 1914 and let us acknowledge that this building is sitting on the ancestral lands of the First Nations. \nFor only $20, this is a must see with the cool crystalline architecture on the outside to getting lost in this history of the world. Travel to the past and visit the Gallery of Rome and Africa, ancient Egypt, or hang out with some dinosaur and some of Earth\u2019s Treasures. If you're up for something spooky check out the Bat cave. Hop on over to the Website which tells you all that's going on at the ROM, from the food stops, shops, and online galleries there\u2019s something for everyone.  (INCLUDE THE WEBSITE : https://www.rom.on.ca/en)\n"
+            "text": "Take 17-minute walk east on Bloor St. W towards Brunswick Ave., taking a right onto Queen\u2019s Park. In front of you stands Canada\u2019s Largest Museum of Culture and Natural History - the Royal Ontario Museum! For a free student entry on Tuesdays, this is a must-see with the cool crystalline architecture on the outside to getting lost in this history of the world. Travel to the past and visit the Gallery of Rome and Africa, ancient Egypt, or hang out with some dinosaur and some of Earth\u2019s Treasures. If you're up for something spooky, check out the Bat Cave. Hop on over to the Website which tells you all that's going on at the ROM, from the food stops, shops, and online galleries there\u2019s something for everyone. https://www.rom.on.ca/en We hope that this tour gave you a better sense of what Toronto is like !"
         },
         "media": {
             "url": "static/Photos/the_ROM_on_film_ver_1.jpg",
