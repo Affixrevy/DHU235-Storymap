@@ -243,7 +243,7 @@
           "text": "A 16-minute walk up north will lead you in one of the oldest neighbourhoods in Toronto - the Annex. In Howland Avenue, right beside the Royal St. George\u2019s College lies the Cathedral of St. Alban-the-Martyr. This Anglican church is used by the Royal St. George\u2019s College as a chapel. Founded in 1883 this gothic looking heritage building is still standing today. Now that you got to witness a little piece of Toronto\u2019s history, let's head on over to your next stop, Lee\u2019s Palace."
         },
         "media": {
-          "url": "static/Photos/Cathedral2.jpg",
+          "url": "static/Photos/cathedral_fix.jpg",
           "caption": "Cathedral of St.Alban-the-Martyr",
           "credit": "Amrit Chahal"
         }
@@ -258,7 +258,7 @@
           "text": "Walk down south on Howland Avenue till you reach the Bloor St West intersection. In front of you is Lee's Palace, a classic that\u2019s been around since 1985. Fun fact, this venue was actually a movie theatre in 1919 and a shoemaker shop before that. Let yourself be whisked away with the music scene at night through the colourful murals immersing yourself in the night scene. This rock concert hall depending on what you\u2019re into can be budget friendly ranging from $15-20 or a treat yourself kind of night with prices going up to $40. Since this venue opens in the evening, you should save this place for future nights out. But in the meantime, we will head on over to Pawpals! "
         },
         "media": {
-          "url": "static/Photos/Lee_s_Palace.jpg",
+          "url": "static/Photos/lee.jpg",
           "caption": "Lee's Palace",
           "credit": "Amrit Chahal"
         }
@@ -303,7 +303,7 @@
           "text": "With your stomachs full, fill your heart with some amazing gifts. Head south on Dalton Rd. taking a right on Bloor St. W and crossing the intersection to get to Juxtapose Cards and Gifts. This cute and quirky giftshop has something for everyone. Treat yourself or someone you love to something cute! They try to source a mixture of products helping out local makers along the way. They carry fun and unique Knick knacks like birthday cards, candles, soaps, pins, home goods, jewellery, keychains and all the stationary."
         },
         "media": {
-          "url": "static/Photos/Gift_shop.jpg",
+          "url": "static/Photos/gift.jpg",
           "caption": "Jux.ta.pose cards & gifts",
           "credit": "Amrit Chahal"
         }
@@ -318,7 +318,7 @@
           "text": "Don\u2019t forget about dessert! Head East Bloor St W and a few shops down you\u2019ll see a caf\u00e9 on your right called Fuwa Fuwa one of the many budget friendly dessert cafes in the Annex. They offer various desserts and pastries such as cupcakes, cheesecakes, cookies and pudding but their Japanese pancakes are a must try! you\u2019ll fall in love with the Their Tiramisu pancakes and don't forget to order a hot drink on the side. If you're not in the mood for pancakes such as cupcakes, cheesecakes, cookies and pudding."
         },
         "media": {
-          "url": "static/Photos/Fuwa_Fuwa.jpg",
+          "url": "static/Photos/fuwa.jpg",
           "caption": "Fuwa Fuwa Japanese Pancakes",
           "credit": "Amrit Chahal"
         }
@@ -330,10 +330,10 @@
         },
         "text": {
           "headline": "Royal Ontario Museum",
-          "text": "Take 17-minute walk east on Bloor St. W towards Brunswick Ave., taking a right onto Queen\u2019s Park. In front of you stands Canada\u2019s Largest Museum of Culture and Natural History - the Royal Ontario Museum! For a free student entry on Tuesdays, this is a must-see with the cool crystalline architecture on the outside to getting lost in this history of the world. Travel to the past and visit the Gallery of Rome and Africa, ancient Egypt, or hang out with some dinosaur and some of Earth\u2019s Treasures. If you're up for something spooky, check out the Bat Cave. Hop on over to the Website which tells you all that's going on at the ROM, from the food stops, shops, and online galleries there\u2019s something for everyone. https://www.rom.on.ca/en We hope that this tour gave you a better sense of what Toronto is like !"
+          "text": "Take 17-minute walk east on Bloor St. W towards Brunswick Ave., taking a right onto Queen\u2019s Park. In front of you stands Canada\u2019s Largest Museum of Culture and Natural History - the Royal Ontario Museum! For a free student entry on Tuesdays, this is a must-see with the cool crystalline architecture on the outside to getting lost in this history of the world. Travel to the past and visit the Gallery of Rome and Africa, ancient Egypt, or hang out with some dinosaur and some of Earth\u2019s Treasures. If you're up for something spooky, check out the Bat Cave. Hop on over to the Website which tells you all that's going on at the ROM, from the food stops, shops, and online galleries there\u2019s something for everyone. We hope that this tour gave you a better sense of what Toronto is like !"
         },
         "media": {
-          "url": "static/Photos/the_ROM_on_film_ver_1.jpg",
+          "url": "https://www.rom.on.ca/en",
           "caption": "Royal Ontario Museum",
           "credit": ""
         }
