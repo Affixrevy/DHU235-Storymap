@@ -22,20 +22,23 @@ def csv_to_json(csv_file_path, json_file_path):
     if row['Location: Lat'] and row['Location: Lon']:
       slide["location"] = {
         "lat": float(row['Location: Lat']),
-        "lon": float(row['Location: Lon'])
+        "lon": float(row['Location: Lon']),
+        "line": bool(row['Line']),
+        "use_custom_marker": True,
+        "icon": f"img/map_icon/{row['Icon']}"
       }
 
     if row['Slide Title'] or row['Text. Note: You CAN use HTML tags here (50-60 words)']:
       slide["text"] = {
-        "headline": row['Slide Title'],
-        "text": f"<span style=\"color: #2c2c2c; text-shadow: none;\">{row['Text. Note: You CAN use HTML tags here (50-60 words)']}"
+        "headline": f"<span style=\"color: #2c2c2c; text-shadow: none;\">{row['Slide Title']} </span>",
+        "text": f"<span style=\"color: #2c2c2c; text-shadow: none;\">{row['Text. Note: You CAN use HTML tags here (50-60 words)']} </span>"
       }
 
     if row['Media: URL']:
       slide["media"] = {
         "url": row['Media: URL'],
-        "caption": row['Media: Caption'],
-        "credit": row['Media: Credit']
+        "caption": f"<span style=\"color: #8e8e8e; text-shadow: none;\"> {row['Media: Caption']} </span>",
+        "credit": f"<span style=\"color: #8e8e8e; text-shadow: none;\"> {row['Media: Credit']} </span>"
       }
 
     if row['Colour']:
