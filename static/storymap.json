@@ -241,7 +241,7 @@
                     "text": "<span style=\"color: #2c2c2c; text-shadow: none;\">Harbord Village starts at the intersection of Harbord and Bathurst Streets, where Bampot House is located. Bampot House is a community-oriented anti-cafe that where you can cowork, play board games, get crafty, do art therapy, talk philosophy and sing karaoke. In Bampot, you pay hourly for using the space, which also gains you access to unlimited tea and coffee! </span>"
                 },
                 "media": {
-                    "url": "img/bampot.webp",
+                    "url": "static/Photos/bampot.jpg",
                     "caption": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Bampot House </span>",
                     "credit": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Polina Gorn </span>"
                 },
@@ -263,7 +263,7 @@
                     "text": "<span style=\"color: #2c2c2c; text-shadow: none;\">If you decide to go to Emmer, be ready to spend some time in a line \u2013 this is how good their pastries are. The highlight of the place is the pistachio and passion fruit croissants, with the first one getting sold out in the first working hour of the bakery. </span>"
                 },
                 "media": {
-                    "url": "img/emmer.webp",
+                    "url": "static/Photos/emmer.jpg",
                     "caption": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Emmer </span>",
                     "credit": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Polina Gorn </span>"
                 },
@@ -285,7 +285,7 @@
                     "text": "<span style=\"color: #2c2c2c; text-shadow: none;\">Having bought a pastry, treat yourself to a tea or a coffee at the Major Treat Coffee and Emissions records shop. Besides coffee and tea, they also offer cookies, pastries, niche records and a variety of books, both fiction and non-fiction -- a great place for window-shopping and music conversations with the employees. </span>"
                 },
                 "media": {
-                    "url": "img/emissions.webp",
+                    "url": "static/Photos/emissions.jpg",
                     "caption": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Emission Records and Major Treat </span>",
                     "credit": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Polina Gorn </span>"
                 },
@@ -307,7 +307,7 @@
                     "text": "<span style=\"color: #2c2c2c; text-shadow: none;\">If you want to escape the hustle and bustle of Harbord Street, turn right to Major Street and then take the first turn left which will lead you in Kosower lane. Small and inconspicuous, Kosower lane can boast a fantastic mural and mirror art \u2014 a perfect spot for a selfie and contemplation. </span>"
                 },
                 "media": {
-                    "url": "img/kosower.webp",
+                    "url": "static/Photos/kosower.jpg",
                     "caption": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Kosower Lane Hidden Gem </span>",
                     "credit": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Polina Gorn </span>"
                 },
@@ -329,7 +329,7 @@
                     "text": "<span style=\"color: #2c2c2c; text-shadow: none;\">The last stop in Harbord Village is the Caversham Bookstore! Specializing in mental health this bookstore offers a wide range of literature on various psychological, psychoanalytic and self-help topics. The selection of books at Caversham is pretty unique, and the staff can always recommend a read that should be most relevant to whatever you are going through right now. </span>"
                 },
                 "media": {
-                    "url": "img/caversham.webp",
+                    "url": "static/Photos/caversham.jpg",
                     "caption": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Caversham Bookstore </span>",
                     "credit": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Polina Gorn </span>"
                 },
