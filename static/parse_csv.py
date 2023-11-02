@@ -69,4 +69,4 @@ def csv_to_json(csv_file_path, json_file_path):
 
 
 # Call the function
-csv_to_json("Story Map Slides - Slides-5.csv", "storymap.json")
+csv_to_json("Story Map Slides - Slides-6.csv", "storymap.json")

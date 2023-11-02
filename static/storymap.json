@@ -491,6 +491,29 @@
                     "color": "#edcdcd",
                     "opacity": 80
                 }
+            },
+            {
+                "type": "overview",
+                "location": {
+                    "lat": 43.66168526,
+                    "lon": -79.39515983,
+                    "line": true,
+                    "use_custom_marker": true,
+                    "icon": "img/map_icon/icon20.png"
+                },
+                "text": {
+                    "headline": "<span style=\"color: #2c2c2c; text-shadow: none;\">Credits </span>",
+                    "text": "<span style=\"color: #2c2c2c; text-shadow: none;\">Icons made by us using symbols from <em>Material Symbols</em> by Google accessed from <a  style=\"color:#1c1c1c; text-shadow: none;\" href=\"https://fonts.google.com/icons\">https://fonts.google.com/icons</a> used under the <a  style=\"color:#1c1c1c; text-shadow: none;\" href=\"https://www.apache.org/licenses/LICENSE-2.0\">Apache 2.0 License</a>. All other photos or videos taken by the group member referenced under the photo. </span>"
+                },
+                "media": {
+                    "url": "img/toronto_sign.jpg",
+                    "caption": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Toronto Sign in Nathan Phillips Square </span>",
+                    "credit": "<span style=\"color: #8e8e8e; text-shadow: none;\"> Arthur Gao </span>"
+                },
+                "background": {
+                    "color": "#eeeeee",
+                    "opacity": 80
+                }
             }
         ]
     }
